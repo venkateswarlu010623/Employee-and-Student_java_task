@@ -9,6 +9,8 @@ public class Test {
 
 	public static void main(String[] args) {
 		
+		System.out.println();
+		
 		Department1 department1 = new Department1(1,"healthcare");
 		Department1 department2 = new Department1(2,"finance");
 		Department1 department3 = new Department1(3,"admin");
