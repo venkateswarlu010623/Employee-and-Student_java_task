@@ -9,8 +9,6 @@ public class Test {
 
 	public static void main(String[] args) {
 		
-		System.out.println();
-		System.out.println("checking push request");
 		
 		Department1 department1 = new Department1(1,"healthcare");
 		Department1 department2 = new Department1(2,"finance");
